@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "370460312174",
+    "project_id": "signinup-6bab5",
+    "storage_bucket": "signinup-6bab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370460312174:android:748825ddcfc5fe1b329c7f",
+        "android_client_info": {
+          "package_name": "com.example.signinup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370460312174-uruv7lq2p9kubfd73nuo86jqet0sf608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDHrAKPrvPcat3UuBUKkEP31gUBQdHQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370460312174-uruv7lq2p9kubfd73nuo86jqet0sf608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370460312174:android:16a4ea58acc4fc53329c7f",
+        "android_client_info": {
+          "package_name": "com.example.testrealtimeforvinh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370460312174-uruv7lq2p9kubfd73nuo86jqet0sf608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDHrAKPrvPcat3UuBUKkEP31gUBQdHQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370460312174-uruv7lq2p9kubfd73nuo86jqet0sf608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
